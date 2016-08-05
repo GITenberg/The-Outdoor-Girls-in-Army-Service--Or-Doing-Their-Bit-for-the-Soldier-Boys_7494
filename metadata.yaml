@@ -1,0 +1,29 @@
+_repo: The-Outdoor-Girls-in-Army-Service--Or-Doing-Their-Bit-for-the-Soldier-Boys_7494
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hope, Laura Lee
+    gutenberg_agent_id: '367'
+    url: http://www.gutenberg.org/2009/agents/367
+    wikipedia: http://en.wikipedia.org/wiki/Laura_Lee_Hope
+description: ''
+gutenberg_bookshelf:
+- Children's Book Series
+- World War I
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7494'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcsh 'World War, 1914-1918 -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcc 'PS'
+- !lcsh 'Girls -- Juvenile fiction'
+- GITenberg
+title: The Outdoor Girls in Army Service; Or, Doing Their Bit for the Soldier Boys
+url: http://www.gutenberg.org/ebooks/7494
